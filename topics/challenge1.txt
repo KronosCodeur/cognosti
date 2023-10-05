@@ -1,0 +1,6 @@
+l'objectif du programme est de trier ou d'afficher plusieurs listes de mm dimension
+ et de façon  ordonné par exemple j'ai deux listes avec des éléments indépendants
+  et dans un ordre quelconque donc le programme doit pouvoir trier ces éléments comme ceci:
+  ( si j'ai [2,5,1] et [4,0,3] en entrée => je dois avoir cette sortie [0,1,2] et [3,4,5] ).
+  NB: pas de méthode déjà existante dans le langage de votre choix. vous ecrivez tout vous même
+  ex:( pas de méthode sort() et autre... vous rédigez tout avec les principes algorithmique même si ça va prendre 200 lignes écrivez tout ).
